@@ -1,0 +1,22 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #f8f8f8;
+}
+
+.test_class {
+    background-color: #f8f8f8;
+    margin: 32px auto;
+    padding: 32px 64px;
+    width: fit-content;
+    border-radius: 10px;
+    box-shadow: rgba(128, 128, 128, 0.2) 0px 0px 10px 1px;
+}
+
+.test_class h3 {
+    background-color: transparent;
+}
